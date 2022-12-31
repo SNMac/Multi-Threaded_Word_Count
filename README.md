@@ -611,6 +611,4 @@ lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>동
 
 </div>
 
-</body>
-
 </html>

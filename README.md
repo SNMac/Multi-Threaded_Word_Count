@@ -50,7 +50,7 @@ style='font-family:"맑은 고딕",sans-serif'>, </span><span lang=KO style='fon
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'><img width=343 height=241
-id="그림 2" src="HW2.fld/image002.png"></span></p>
+id="그림 2" src="README.fld/image002.png"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ 한 프로세스는 적어도 하나 이상의 스레드를 가진다</span><span
@@ -58,7 +58,7 @@ lang=EN-US style='font-family:"맑은 고딕",sans-serif'>.</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'><img width=248 height=170
-id="그림 6" src="HW2.fld/image003.png" alt="테이블이(가) 표시된 사진&#10;&#10;자동 생성된 설명"></span></p>
+id="그림 6" src="README.fld/image003.png" alt="테이블이(가) 표시된 사진&#10;&#10;자동 생성된 설명"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ 프로세스가 갖고 있는 스레드 개수와</span></p>

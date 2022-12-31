@@ -49,7 +49,7 @@ style='font-family:"맑은 고딕",sans-serif'>, </span><span lang=KO style='fon
 자원 선점과 동기화를 잘 맞춰줘야 한다</span><span lang=EN-US style='font-family:"맑은 고딕",sans-serif'>.</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
-lang=EN-US style='font-family:"맑은 고딕",sans-serif'><img width=343 height=241
+lang=EN-US style='font-family:"맑은 고딕",sans-serif'><img width=686 height=482
 id="그림 2" src="README.fld/image002.png"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
@@ -57,14 +57,12 @@ style='font-family:"맑은 고딕",sans-serif'>↑ 한 프로세스는 적어도
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'>.</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
-lang=EN-US style='font-family:"맑은 고딕",sans-serif'><img width=248 height=170
+lang=EN-US style='font-family:"맑은 고딕",sans-serif'><img width=496 height=340
 id="그림 6" src="README.fld/image003.png" alt="테이블이(가) 표시된 사진&#10;&#10;자동 생성된 설명"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>↑ 프로세스가 갖고 있는 스레드 개수와</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'>Context switching(</span><span lang=KO
+style='font-family:"맑은 고딕",sans-serif'>↑ 프로세스가 갖고 있는 스레드 개수와 </span><span
+style='font-family:"맑은 고딕",sans-serif'>Context switching(<span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>문맥 전환</span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>)</span><span lang=KO style='font-family:
 "맑은 고딕",sans-serif'>한 횟수 등을 알 수 있다</span><span lang=EN-US style='font-family:

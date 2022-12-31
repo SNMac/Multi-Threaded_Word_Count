@@ -1,4 +1,4 @@
-# Multi-threaded Word Count
+# Multi-Threaded Word Count
 
 <html>
 

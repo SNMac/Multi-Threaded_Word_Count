@@ -607,8 +607,6 @@ lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>시
 lang=KO> </span><span lang=EN-US>1</span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>개로</span><span
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>동작</span></p>
 
-<p class=MsoNormal><span lang=EN-US style='font-size:14.0pt'>&nbsp;</span></p>
-
 </div>
 
 </html>
